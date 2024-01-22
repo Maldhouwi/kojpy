@@ -1,0 +1,27 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    height: 200px;
+    width: 400px;
+    margin-left: 50px;
+}
+div{
+    background-color: aquamarine;
+    padding-left: 50px;
+    margin-right: 50px;
+}
+
+.division1{
+    background-color: #d01111;
+}
+.division2{
+    background-color: yellow;
+}
+.division3{
+    background-color: blue;
+}
+#main{
+    display: flex;
+}
